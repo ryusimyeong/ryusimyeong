@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 류시명입니다~!
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
